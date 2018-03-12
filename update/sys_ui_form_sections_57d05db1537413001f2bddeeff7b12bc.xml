@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="57d05db1537413001f2bddeeff7b12bc" sys_domain="global" table="atf_output_variable" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-12 21:34:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dfd09db1537413001f2bddeeff7b1204</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="atf_output_variable" name="atf_output_variable" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">57d05db1537413001f2bddeeff7b12bc</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="atf_output_variable" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">dfd09db1537413001f2bddeeff7b1201</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-12 21:34:45</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-12 21:34:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1fd09db1537413001f2bddeeff7b1207</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="atf_output_variable" name="atf_output_variable" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">57d05db1537413001f2bddeeff7b12bc</sys_ui_form>
+            <sys_ui_section caption="Reference Specification" display_value="Reference Specification" name="atf_output_variable" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">d3d09db1537413001f2bddeeff7b1205</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-12 21:34:45</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-12 21:34:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>97d05db1537413001f2bddeeff7b12c0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="atf_output_variable" name="atf_output_variable" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">57d05db1537413001f2bddeeff7b12bc</sys_ui_form>
+            <sys_ui_section caption="Choice List Specification" display_value="Choice List Specification" name="atf_output_variable" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">d7d05db1537413001f2bddeeff7b12be</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-12 21:34:45</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-12 21:34:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d3d05db1537413001f2bddeeff7b12c2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="atf_output_variable" name="atf_output_variable" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">57d05db1537413001f2bddeeff7b12bc</sys_ui_form>
+            <sys_ui_section caption="Dependent Field" display_value="Dependent Field" name="atf_output_variable" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">13d05db1537413001f2bddeeff7b12c1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-12 21:34:45</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-12 21:34:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dbd09db1537413001f2bddeeff7b1201</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="atf_output_variable" name="atf_output_variable" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">57d05db1537413001f2bddeeff7b12bc</sys_ui_form>
+            <sys_ui_section caption="Calculated Value" display_value="Calculated Value" name="atf_output_variable" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">d7d05db1537413001f2bddeeff7b12c2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-12 21:34:45</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-12 21:34:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d3d09db1537413001f2bddeeff7b1209</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="atf_output_variable" name="atf_output_variable" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">57d05db1537413001f2bddeeff7b12bc</sys_ui_form>
+            <sys_ui_section caption="Default Value" display_value="Default Value" name="atf_output_variable" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">13d09db1537413001f2bddeeff7b1208</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-12 21:34:45</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>atf_output_variable</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-12 21:34:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>57d05db1537413001f2bddeeff7b12bc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>atf_output_variable</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="flowtest" source="sn_flowtest">588fb439533413001f2bddeeff7b121a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="flowtest">588fb439533413001f2bddeeff7b121a</sys_scope>
+            <sys_update_name>sys_ui_form_sections_57d05db1537413001f2bddeeff7b12bc</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-12 21:34:44</sys_updated_on>
+            <sys_user/>
+            <view display_value="Advanced" name="advanced">7966be310a0a0b8c00bd504090503227</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
