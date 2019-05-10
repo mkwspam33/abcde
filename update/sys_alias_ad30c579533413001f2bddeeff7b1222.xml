@@ -4,6 +4,7 @@
         <id>sn_flowtest.Stuff</id>
         <multiple_connections>false</multiple_connections>
         <name>Stuff</name>
+        <retry_policy/>
         <sys_class_name>sys_alias</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-03-12 20:22:06</sys_created_on>

@@ -2,6 +2,7 @@
     <sys_atf_step_config action="INSERT_OR_UPDATE">
         <active>true</active>
         <batch_order_constraint/>
+        <can_mutate_page>false</can_mutate_page>
         <category/>
         <class_name/>
         <class_type>script</class_type>
@@ -88,7 +89,7 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2018-03-12 21:34:39</sys_updated_on>
         <template_reminder>Cool</template_reminder>
-        <type display_value="Test Step" name="sys_atf_step">360d6f01d0d013007e7343e2ce4fb68f</type>
+        <type display_value="Test Step" name="sys_atf_step">70589ced50c133007e7383719b9960ab</type>
         <wizard_redirect/>
     </sys_atf_step_config>
     <sys_translated_text action="delete_multiple" query="documentkey=c4c099b1537413001f2bddeeff7b1206"/>

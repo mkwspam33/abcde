@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>sn_flowtest.foobar1</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>foobar1</name>
+        <script><![CDATA[var foobar1 = Class.create();
+foobar1.prototype = {
+    initialize: function() {
+    },
+
+    type: 'foobar1'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-10 15:09:19</sys_created_on>
+        <sys_id>89badf82771133004d4eb5b2681061c9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>foobar1</sys_name>
+        <sys_package display_value="flowtest" source="sn_flowtest">588fb439533413001f2bddeeff7b121a</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="flowtest">588fb439533413001f2bddeeff7b121a</sys_scope>
+        <sys_update_name>sys_script_include_89badf82771133004d4eb5b2681061c9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-10 15:09:19</sys_updated_on>
+    </sys_script_include>
+</record_update>
